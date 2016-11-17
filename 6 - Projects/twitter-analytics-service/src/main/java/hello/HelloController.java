@@ -54,7 +54,7 @@ public class HelloController {
             Long nextCursor = followers.getNextCursor();
            // System.out.println("Code of the next one: " + nextCursor);
             
-            followers = twitter.friendOperations().getFollowersInCursor(nextCursor);
+            followers = twitter.friendOperations().getFollowersInCursor(nextCursor);  
         	
         }
         
