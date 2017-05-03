@@ -1,6 +1,6 @@
 
 /**
- * This is App class
+ * This is App class  
  * 
  * @author milan.latinovic
  *
